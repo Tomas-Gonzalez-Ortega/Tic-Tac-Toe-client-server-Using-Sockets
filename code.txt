@@ -1,0 +1,11 @@
+javac TTTServer.java
+javac TTTServerTest.java
+javac TTTPlayer.java
+javac TTTPlayerTest.java
+
+
+java TTTServerTest
+
+
+
+java TTTPlayerTest
